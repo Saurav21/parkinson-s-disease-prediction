@@ -1,4 +1,4 @@
-# parkinson-s-disease-prediction
+# parkinson-disease-prediction
 
 The model can predicts parkison disease with 94% accuracy.
 
